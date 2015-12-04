@@ -1,0 +1,6 @@
+c:\users\kkadi\documents\visual studio 2015\Projects\Dizileryazilimkulubu\Dizileryazilimkulubu\bin\Debug\Dizileryazilimkulubu.exe.config
+c:\users\kkadi\documents\visual studio 2015\Projects\Dizileryazilimkulubu\Dizileryazilimkulubu\bin\Debug\Dizileryazilimkulubu.exe
+c:\users\kkadi\documents\visual studio 2015\Projects\Dizileryazilimkulubu\Dizileryazilimkulubu\bin\Debug\Dizileryazilimkulubu.pdb
+c:\users\kkadi\documents\visual studio 2015\Projects\Dizileryazilimkulubu\Dizileryazilimkulubu\obj\Debug\Dizileryazilimkulubu.csprojResolveAssemblyReference.cache
+c:\users\kkadi\documents\visual studio 2015\Projects\Dizileryazilimkulubu\Dizileryazilimkulubu\obj\Debug\Dizileryazilimkulubu.exe
+c:\users\kkadi\documents\visual studio 2015\Projects\Dizileryazilimkulubu\Dizileryazilimkulubu\obj\Debug\Dizileryazilimkulubu.pdb
